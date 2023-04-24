@@ -1,0 +1,10 @@
+::ng-deep .mat-menu-panel.unit-dropdown-menu {
+  max-width: 400px;
+  width: 400px;
+}
+
+.unitName {
+  max-width: 270px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
